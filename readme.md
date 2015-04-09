@@ -13,6 +13,8 @@ Backbone, Ember, AngularJS... the list of new and stable solutions goes on and o
 
 To help solve this problem, we created TodoMVC - a project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV\* frameworks of today.
 
+Please note that TodoMVC might not be the right place to compare the size of different frameworks. We intentionally use unminified vendor libraries to make it easier for people to read and debug the code.
+
 
 ## View & Run in Web IDE
 
